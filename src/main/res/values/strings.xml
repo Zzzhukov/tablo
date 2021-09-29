@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tableau</string>
+    <string name="add">Полегло</string>
+    <string name="reset">Забыть</string>
+    <string name="title">Схватка двух группировок</string>
+    <string name="ball">Баласы</string>
+    <string name="groove">Грув стрит</string>
+    <string name="groove_point" translatable="false">0</string>
+    <string name="ball_point" translatable="false">0</string>
+</resources>

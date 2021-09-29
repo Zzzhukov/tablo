@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tableau</string>
+    <string name="add">Died</string>
+    <string name="reset">To forget</string>
+    <string name="title">The battle of two groups</string>
+    <string name="ball">Balas</string>
+    <string name="groove">Groove Street</string>
+</resources>
